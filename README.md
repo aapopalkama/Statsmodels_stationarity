@@ -6,7 +6,7 @@ Check the stationarity of a time series
 * This program shows you how to explore is series stationary.
 * I used Nvidia historical closing prices
 
-Required libraries
+Required libraries:
 * pip install yfinance
 * pip install pandas
 * pip install DateTime
