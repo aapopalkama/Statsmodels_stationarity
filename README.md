@@ -1,5 +1,5 @@
 # Statsmodels_stationarity
-check the stationarity of a time series
+Check the stationarity of a time series
 
 * Stationarity means that the statistical properties of a process generating a time series do not change over time.
 
