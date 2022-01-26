@@ -5,3 +5,10 @@ check the stationarity of a time series
 
 * This program shows you how to explore is series stationary.
 * I used Nvdia historical closing prices
+
+requirements
+* pip install yfinance
+* pip install pandas
+* pip install DateTime
+* pip install matplotlib
+* pip install statsmodels
